@@ -70,3 +70,5 @@ Ensure the following tools are installed before running the Angular project:
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+![Image](https://github.com/user-attachments/assets/e7031d56-e281-4c05-bf2f-47fb5c51df4f)
